@@ -20,7 +20,7 @@ Cursando Superior em Marketing, estou começando na área de Análise de Dados, 
 ---
 
 ### 🎯 Objetivos
-- Unir meu conhecimento em **Marketing** com ferramentas de **Data Analytics** para atuar com:
+- Usar meu conhecimento em **Marketing** com ferramentas de **Data Analytics** para atuar com:
   - Análise de comportamento do consumidor
   - Otimização de funis de conversão
   - Previsões de vendas e tendências de mercado
@@ -28,7 +28,7 @@ Cursando Superior em Marketing, estou começando na área de Análise de Dados, 
 
 ---
 
-### Skills
+### 💡 Skills
 <p align="left">
  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analytics-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -48,7 +48,7 @@ Cursando Superior em Marketing, estou começando na área de Análise de Dados, 
   <li>📚 Estudante de Marketing com foco em dados e performance</li>
   <li>📊 Explorando ferramentas de análise para engajar oresultados de campanhas digitais</li>
   <li>🗒️ Aprendendo sobre a área de Business Intelligence e Estratégia</li>
-  <li>💬 Aberta a conexões e parcerias para projetos colaborativos</li>
+  <li>🗨️ Aberta a conexões e parcerias para projetos colaborativos</li>
 </ul>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gisele-Alencar/Gisele-Alencar/refs/heads/main/7945bbcb8d06a234a595c231cd369852.gif" alt="Anime Hi gif waving" width="200"/>
