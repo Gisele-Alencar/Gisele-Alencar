@@ -4,9 +4,7 @@
 Cursando Superior em Marketing, estou começando na área de Análise de Dados, desenvolvendo habilidades em visualização e interpretação de dados para transformar informações em insights valiosos para o crescimento dos negócios. Meu foco está em estratégias de marketing digital, como gestão de campanhas, aumento de vendas, análise de resultados e inovação.
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=worcgii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 ---
 
