@@ -20,13 +20,16 @@ Cursando Superior em Marketing, estou iniciando na área de Análise de Dados, d
 ---
 
 ### 🎯 Objetivos
-- Usar meu conhecimento em **Marketing** com ferramentas de **Data Analytics** para atuar com:
-  - Análise de comportamento do consumidor
-  - Otimização de funis de conversão
-  - Previsões de vendas e tendências de mercado
-  - Criação de dashboards estratégicos para tomada de decisão
 
----
+ ○ Visualizar dados para campanhas digitais
+ 
+○ Analisar desempenho de vendas e marketing
+
+○ Criar dashboards estratégicos e relatórios
+
+○ Interpretar informações para apoiar decisões
+
+○ Acompanhar métricas e tendências do mercado
 
 ### 💡 Skills
 <p align="left">
