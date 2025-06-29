@@ -9,7 +9,7 @@ Cursando Superior em Marketing, estou iniciando na área de Análise de Dados, d
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://getinspiired.carrd.co/?fbclid=PAZXh0bgNhZW0CMTEAAafVnRSGWL0RIOQfV1rnN5jETwU18VmQFrDGFY27GDwpEABrIvnuMRcylS_HZg_aem_BQJwKjynuKZww0_GnD1z_Q" target="_blank">
-    <img src="https://img.shields.io/badge/Link-FF69B4?style=for-the-badge&logo=linktree&logoColor=white" alt="Links para site"/>
+    <img src= "https://img.shields.io/badge/Link-FF69B4?style=for-the-badge&logo=linktree&logoColor=white" alt="Indicações"/>
   </a>
   <a href="https://www.instagram.com/giisele.alencar_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
