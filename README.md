@@ -47,9 +47,10 @@ Hey peoples, estou iniciando na área de Análise de Dados, desenvolvendo habili
 
 ### 👩‍💻 Sobre mim
 <ul>
-  <li>📚 Estudante de Marketing com foco em dados e performance</li>
-  <li>📊 Explorando ferramentas de análise para engajar oresultados de campanhas digitais</li>
-  <li>🗒️ Aprendendo sobre a área de Business Intelligence e Estratégia</li>
+  <li>📚 Estudante de Sistemas com foco em dados e estratégias de negócios </li>
+  <li>📊 Explorando ferramentas de análise para engajar resultados de campanhas do mercado </li>
+  <li> Amo criar Dashboards de dados operacional e analíticos </li>
+  <li>🗒️ Aprendendo sobre a área de Business Intelligence </li>
   <li>🗨️ Aberta a conexões e parcerias para projetos colaborativos</li>
 </ul>
 <p align="center">
