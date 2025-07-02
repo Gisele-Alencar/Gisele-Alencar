@@ -1,7 +1,7 @@
 <h1 align="center">Desenvolvendo Projetos Acadêmicos ➫</h1>
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-Cursando Superior em Marketing, estou iniciando na área de Análise de Dados, desenvolvendo habilidades em visualização e interpretação de dados para transformar informações em insights valiosos para o crescimento dos negócios. Meu foco está em estratégias de marketing digital, como gestão de campanhas, aumento de vendas, análise de resultados e inovação.
+Hey peoples, estou iniciando na área de Análise de Dados, desenvolvendo habilidades em visualização e interpretação de dados para transformar informações em insights valiosos para o crescimento dos negócios. Meu foco está em estratégias de marketing digital, como gestão de campanhas, aumento de vendas, análise de resultados e inovação.
 </h3>
 
 <p align="center">
