@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Peoples ➫</h1>
+<h1 align="center"> Hey Peoples c;</h1>
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 Estou iniciando na área de Análise de Dados, desenvolvendo habilidades em visualização e interpretação de dados para transformar informações em insights valiosos para o crescimento dos negócios. Meu foco está em estratégias de marketing digital, como gestão de campanhas, aumento de vendas, análise de resultados e inovação.
