@@ -4,7 +4,7 @@
 Estou iniciando na área de Análise de Dados, desenvolvendo habilidades em visualização e interpretação de dados para transformar informações em insights valiosos para o crescimento dos negócios. Meu foco está em estratégias de marketing digital, como gestão de campanhas, aumento de vendas, análise de resultados e inovação.
 </h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/giselealencar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
