@@ -31,9 +31,8 @@ Estou iniciando na área de Análise de Dados, desenvolvendo habilidades em visu
 
 ### 👩‍💻 Sobre mim
 <ul>
-  <li>📚 Estudante de Sistemas com foco em dados e estratégias de negócios </li>
-  <li>📊 Explorando ferramentas de análise para engajar resultados de campanhas do mercado </li>
-  <li>🤩 Amo criar Dashboards de dados operacional e analíticos </li>
+  <li>📚 Estudante de Sistemas com foco em análises e estratégias de mercado </li>
+ <li>🤩 Amo criar Dashboards de dados operacional e analíticos </li>
   <li>🗒️ Aprendendo sobre a área de Business Intelligence </li>
   <li>🗨️ Aberta a conexões e parcerias para projetos colaborativos</li>
 </ul>
