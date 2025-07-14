@@ -15,20 +15,6 @@ Estou iniciando na área de Análise de Dados, desenvolvendo habilidades em visu
 </p>
 
 
----
-
-### 🎯 Objetivos
-
- ○ Visualizar dados para campanhas digitais
- 
-○ Analisar desempenho de vendas e marketing
-
-○ Criar dashboards estratégicos e relatórios
-
-○ Interpretar informações para apoiar decisões
-
-○ Acompanhar métricas e tendências do mercado
-
 ### 💡 Skills
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
