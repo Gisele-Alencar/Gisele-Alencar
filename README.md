@@ -31,15 +31,16 @@ Estou iniciando na área de Análise de Dados, desenvolvendo habilidades em visu
 
 ### 👩‍💻 Sobre mim
 <ul>
-  <li>📚 Estudante de Sistemas com foco em análises e estratégias de mercado </li>
+  <li>📚 Estudante de Sistemas com foco em análises e decisões estratégicas </li>
+ <li> 💢 Aprimorando minhas habilidades técnicas e analíticas </li>
  <li>🤩 Amo criar Dashboards de dados operacional e analíticos </li>
   <li>🗒️ Aprendendo sobre a área de Business Intelligence </li>
   <li>🗨️ Aberta a conexões e parcerias para projetos colaborativos</li>
 </ul>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gisele-Alencar/Gisele-Alencar/refs/heads/main/7945bbcb8d06a234a595c231cd369852.gif" alt="Anime Hi gif waving" width="200"/>
 </p>
-
 
 <p> Obrigada por visitar meu perfil e Siga-me c:
 </p>
