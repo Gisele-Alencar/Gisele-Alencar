@@ -19,7 +19,7 @@
   <li>🎓 Estudante de Sistemas focada em UX/UI Design</li>
   <li>🧠 Aprendendo sobre prototipação, design de interfaces e landing pages</li>
   <li>🛠️ Explorando ferramentas como Figma, Framer, Flutter e Bravo Studio</li>
-  <li>🔎 Curiosa por lógica, modelagem UML e construção de interfaces eficientes</li>
+  <li>🔎 Curiosa por Lógica, Modelagem UML e Modelagem de Dados </li>
   <li>👩🏻‍💻 Atuando como Freelancer, buscando projetos colaborativos e novas conexões criativas</li>
 </ul>
 
