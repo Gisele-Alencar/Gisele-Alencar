@@ -1,5 +1,5 @@
 <h1 align="center"> Hey Peoples 🤗</h1>
-
+  <li> 🎓 Estudante de Sistemas focada em Ux/Ui Design </li>
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 </h3>
@@ -13,15 +13,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
- ### Sobre Mim
-<ul>
-  <li>🎓 Estudante de Sistemas focada em UX/UI Design</li>
-  <li>🧠 Aprendendo sobre prototipação, design de interfaces e landing pages</li>
-  <li>🛠️ Explorando ferramentas como Figma, Framer, Flutter e Bravo Studio</li>
-  <li>🔎 Curiosa por Lógica, Modelagem UML e Modelagem de Dados </li>
-  <li>👩🏻‍💻 Atuando como Freelancer, buscando projetos colaborativos e novas conexões criativas</li>
-</ul>
 
 ### 💡 Skills
 <p align="center">
