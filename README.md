@@ -5,7 +5,7 @@
 </h3>
 
 
-### 💡 Skills
+## 💡 Skills
 <p align="center">
 <p align="center">  
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
