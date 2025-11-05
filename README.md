@@ -1,5 +1,5 @@
 <h1 align="center"> Hey Peoples 🤗</h1>
-  <li> 🎓 Estudante de Sistemas focada em Ux/Ui Design </li>
+  <li> ⋱ UX/UI em formação | Freelancer de protótipos e landing pages | Design orientado por dados e decisões inteligentes ⋱ </li>
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 </h3>
