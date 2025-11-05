@@ -1,11 +1,11 @@
 <h1 align="center"> Hey Peoples 🤗</h1>
-  <li> ⋱ UX/UI em formação | Freelancer de protótipos e landing pages | Design orientado por dados e decisões inteligentes ⋱ </li>
+  ⋱ UX/UI em formação | Freelancer de protótipos e landing pages | Design orientado por dados e decisões inteligentes ⋱ 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-
 </h3>
 
 
-## 💡 Skills
+<h2> 💡 Skills </h2>
+
 <p align="center">
 <p align="center">  
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
