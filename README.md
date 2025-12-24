@@ -6,7 +6,7 @@
 
 ## 🚀 Meus Projetos
 
-Todos os meus projetos com UX/UI, protótipos, design visual, análises e interfaces estão disponíveis no meu portfólio completo:
+Todos os meus projetos de protótipos, design visual, análises e interfaces estão disponíveis no meu portfólio completo:
 👉 https://gisele-alencar.netlify.app
 Lá você encontrará: ✔ Estudos de caso
 ✔ Prototipagem de interfaces
