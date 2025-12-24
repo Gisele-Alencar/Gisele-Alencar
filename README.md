@@ -4,10 +4,10 @@
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 </h3>
 
-## 🚀 Meus Projetos
+## ▪️ Meus Projetos
 
-Todos os meus projetos de protótipos, design visual, análises e interfaces estão disponíveis no meu portfólio completo:
-👉 https://gisele-alencar.netlify.app
+Você pode conhecer, no meu portfólio, projetos de prototipação, design visual, sites e interfaces desenvolvidos com foco em experiência do usuário 👇
+link : https://gisele-alencar.netlify.app
 
 Você encontrará: 
 
@@ -18,7 +18,7 @@ Você encontrará:
 ✔ Landing Pages
 
 
-<h2> 💡 Skills </h2>
+<h2> ▪️ Skills </h2>
 
 <p align="center">
 
