@@ -1,7 +1,17 @@
 <h1 align="center"> Hey Peoples 🤗</h1>
+
   ⋱ Ux/Ui em formação | Freelancer de protótipos e landing pages | Design orientado por dados e decisões inteligentes ⋱ 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 </h3>
+
+## 🚀 Meus Projetos
+
+Todos os meus projetos com UX/UI, protótipos, design visual, análises e interfaces estão disponíveis no meu portfólio completo:
+👉 https://gisele-alencar.netlify.app
+Lá você encontrará: ✔ Estudos de caso
+✔ Prototipagem de interfaces
+✔ UX orientado por dados
+✔ Exemplos visuais e funcionais
 
 
 <h2> 💡 Skills </h2>
