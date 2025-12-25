@@ -1,6 +1,7 @@
 <h1 align="center"> Hey Peoples 🤗</h1>
 
   ⋱ Data Analyst - Ui/Ux Designer em formação | Freelancer de protótipos e landing pages | Design orientado por dados e decisões inteligentes ⋱ 
+
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 </h3>
 
