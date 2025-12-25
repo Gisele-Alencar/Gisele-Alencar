@@ -9,7 +9,7 @@
 
 Você pode conhecer, no meu portfólio, projetos pessoais de prototipação, design visual, sites e interfaces desenvolvidas com foco em experiência do usuário 👇
 
-link ( https://gisele-alencar.netlify.app )
+Link ( https://gisele-alencar.netlify.app )
 
 Você encontrará: 
 
