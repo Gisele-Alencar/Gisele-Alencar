@@ -19,6 +19,8 @@ Você encontrará:
 
 ✔ Landing Pages
 
+✔ Análises
+
 
 <h2> ▪️ Skills </h2>
 
