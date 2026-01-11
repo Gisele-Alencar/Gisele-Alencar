@@ -32,16 +32,6 @@
     </td>
   </tr>
 </table>
-<table width="100%">
-  <tr>
-    <td bgcolor="#151515" style="border: 1px solid #ff79c6; border-radius: 15px; padding: 15px;">
-      <h3 align="center" style="color: #ff79c6; font-family: monospace;">Most Used Languages</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-Alencar&layout=compact&theme=tokyonight&bg_color=151515&title_color=ff79c6&text_color=f8f8f2&hide_border=true" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -56,9 +46,9 @@
         </a>
       </div>
       <ul style="color: #f8f8f2;">
-        <li>✔ Wireframes de baixa e alta fidelidade</li>
-        <li>✔ Prototipagem & Landing Pages</li>
-        <li>✔ Análise de Dados/Visualizações </li>
+        <li> Wireframes de baixa e alta fidelidade</li>
+        <li> Prototipagem & Landing Pages</li>
+        <li> Análise de Dados/Visualizações </li>
       </ul>
     </td>
   </tr>
