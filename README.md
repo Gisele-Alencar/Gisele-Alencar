@@ -22,7 +22,9 @@
       <h3 align="center" style="color: #ff79c6; font-family: monospace;">⚡ Skills </h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Figma-ff79c6?style=for-the-badge&logo=figma&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Python-ff79c6?style=for-the-badge&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/FIGJAM-ff79c6?style=for-the-badge&logo=figma&logoColor=white"> 
+<img src="https://img.shields.io/badge/PANDAS-ff79c6?style=for-the-badge&logo=pandas&logoColor=white"> 
+          <img src="https://img.shields.io/badge/Python-ff79c6?style=for-the-badge&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/Power_BI-ff79c6?style=for-the-badge&logo=powerbi&logoColor=white"> 
         <img src="https://img.shields.io/badge/SQL-ff79c6?style=for-the-badge&logo=postgresql&logoColor=white"> 
         <img src="https://img.shields.io/badge/HTML5-ff79c6?style=for-the-badge&logo=html5&logoColor=white">
