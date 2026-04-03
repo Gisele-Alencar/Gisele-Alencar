@@ -9,7 +9,7 @@
     <td bgcolor="#151515" align="center" style="border: 1px solid #ff79c6;">
       <h1 style="color: #ff79c6; font-family: monospace;"> Hey Peoples 🤗 </h1>
       <p style="color: #f8f8f2;"><b>UI/UX Designer & UX Researcher </b></p>
-      <p style="color: #bd93f9;"><i>Unindo Design, Desenvolvimento Android e Automações com IA para criar experiências Mobile e Web.</i></p>
+      <p style="color: #bd93f9;"><i>Unindo Design, Desenvolvimento Android e Automações com IA para criar experiências mobile de alto impacto.</i></p>
     </td>
   </tr>
 </table>
@@ -28,7 +28,6 @@
         <img src="https://img.shields.io/badge/Typebot-ff79c6?style=for-the-badge&logo=robot&logoColor=white"> 
         <img src="https://img.shields.io/badge/Generative_AI-ff79c6?style=for-the-badge&logo=openai&logoColor=white">
         <img src="https://img.shields.io/badge/Python-ff79c6?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Pandas-ff79c6?style=for-the-badge&logo=pandas&logoColor=white">
         <img src="https://img.shields.io/badge/Matplotlib-ff79c6?style=for-the-badge&logo=python&logoColor=white">
       </div>
     </td>
@@ -40,8 +39,8 @@
 <table width="100%">
   <tr>
     <td bgcolor="#151515" style="border: 1px solid #ff79c6;">
-      <h2 align="center" style="color: #ff79c6; font-family: monospace;">▪️ Desenvolvendo soluções onde o design encontra a tecnologia</h2>
-  
+      <h2 align="center" style="color: #ff79c6; font-family: monospace;">
+      <p align="center" style="color: #f8f8f2;">Desenvolvendo soluções onde o design encontra a tecnologia 👇</p>
       <div align="center">
         <a href="https://gisele-alencar.netlify.app">
           <img src="https://img.shields.io/badge/ACESSAR_PORTFÓLIO-ff79c6?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -76,19 +75,6 @@
 </table>
 
 </div>
-      <div align="center">
-        <a href="https://gisele-alencar.netlify.app">
-          <img src="https://img.shields.io/badge/ACESSAR_PORTFÓLIO-ff79c6?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </div>
-      <ul style="color: #f8f8f2;">
-        <li> Wireframes de baixa e alta fidelidade</li>
-        <li> Prototipagem & Landing Pages</li>
-        <li> Análise de Dados/Visualizações </li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <br>
 
