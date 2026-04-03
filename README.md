@@ -9,7 +9,7 @@
     <td bgcolor="#151515" align="center" style="border: 1px solid #ff79c6;">
       <h1 style="color: #ff79c6; font-family: monospace;"> Hey Peoples 🤗 </h1>
       <p style="color: #f8f8f2;"><b>UI/UX Designer & UX Researcher </b></p>
-      <p style="color: #bd93f9;"><i>Unindo Design, Desenvolvimento Android e Automações com IA para criar experiências mobile de alto impacto.</i></p>
+      <p style="color: #bd93f9;"><i>Unindo Design, Desenvolvimento Android e Automações com IA para criar experiências mobile e webs.</i></p>
     </td>
   </tr>
 </table>
