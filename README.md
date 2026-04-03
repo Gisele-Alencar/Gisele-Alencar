@@ -40,17 +40,18 @@
 <table width="100%">
   <tr>
     <td bgcolor="#151515" style="border: 1px solid #ff79c6;">
-      <h2 align="center" style="color: #ff79c6; font-family: monospace;">▪️ Meus Projetos</h2>
+      <h1 align="center" style="color: #ff79c6; font-family: monospace;">▪️ Meus Projetos</h1>
       <p align="center" style="color: #f8f8f2;">Conheça meu portfólio de prototipação e design visual 👇</p>
       <div align="center">
         <a href="https://gisele-alencar.netlify.app">
           <img src="https://img.shields.io/badge/ACESSAR_PORTFÓLIO-ff79c6?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </div>
-          <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;">🔍 <b>UX Research:</b> Transformando comportamento em decisões de produto.</h2>
-      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;">🤖 <b>Android Dev:</b> Criando interfaces nativas com Kotlin.</h2>
-      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;">⚡ <b>Low-Code:</b> Automação de atendimento e fluxos com Typebot.</h2>
-      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;">🧠 <b>IA Generativa:</b> Otimização de processos criativos e técnicos.</h2>
+          <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;"> <b>UX Research:</b> Transformando comportamento em decisões de produto.</h2>
+      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;">
+        <b>Android Dev:</b> Criando interfaces nativas com Kotlin.</h2>
+      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;"> <b>Low-Code:</b> Automação de atendimento e fluxos com Typebot.</h2>
+      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;"> <b>IA Generativa:</b> Otimização de processos criativos e técnicos.</h2>
     </td>
   </tr>
 </table>
