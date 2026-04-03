@@ -47,11 +47,10 @@
           <img src="https://img.shields.io/badge/ACESSAR_PORTFÓLIO-ff79c6?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </div>
-          <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;"> <b>UX Research:</b> Transformando comportamento em decisões de produto.</h2>
-      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;">
-        <b>Android Dev:</b> Criando interfaces nativas com Kotlin.</h2>
-      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;"> <b>Low-Code:</b> Automação de atendimento e fluxos com Typebot.</h2>
-      <h2 align="center" style="color: #f8f8f2; font-size: 1.2em;"> <b>IA Generativa:</b> Otimização de processos criativos e técnicos.</h2>
+          <h3 align="center" style="color: #f8f8f2; font-size: 1.2em;"> <b>UX Research:</b> Transformando comportamento em decisões de produto.</h3>
+      <h3 align="center" style="color: #f8f8f2; font-size: 1.2em;">
+        <b>Android Dev:</b> Criando interfaces nativas com Kotlin.</h3>
+      <h3 align="center" style="color: #f8f8f2; font-size: 1.2em;"> <b>IA Generativa:</b> Otimização de processos criativos e técnicos.</h3>
     </td>
   </tr>
 </table>
