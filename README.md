@@ -76,22 +76,3 @@
 
 </div>
 
-<br>
-
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#151515" style="border: 1px solid #ff79c6;">
-      <p style="color: #f8f8f2;">Obrigada por visitar e Siga-me c:</p>
-      <img src="https://raw.githubusercontent.com/Gisele-Alencar/Gisele-Alencar/refs/heads/main/7945bbcb8d06a234a595c231cd369852.gif" width="80" alt="Anime Hi gif">
-      <br><br>
-      <a href="https://www.linkedin.com/in/giselealencar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-        <img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=flat-square&logo=linkedin&logoColor=white">
-</a>
- <a href="mailto:gisele.alencar-ux@proton.me">
-          <img src="https://img.shields.io/badge/Email-ff79c6?style=flat-square&logo=protonmail&logoColor=white"
- </a>
-    </td>
-  </tr>
-</table>
-
-</div>
