@@ -43,7 +43,7 @@
       <h1 align="center" style="color: #ff79c6; font-family: monospace;">▪️ Meus Projetos</h1>
       <p align="center" style="color: #f8f8f2;">Conheça meu portfólio de prototipação e design visual 👇</p>
       <div align="center">
-        <a href="https://gisele-alencar.netlify.app">
+        <a href="https://even-bramble-15f.notion.site/Ol-2f03873d6f708036913bd573cc65f4c3">
           <img src="https://img.shields.io/badge/ACESSAR_PORTFÓLIO-ff79c6?style=for-the-badge&logo=netlify&logoColor=white" />
         </a>
       </div>
