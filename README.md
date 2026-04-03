@@ -40,8 +40,8 @@
 <table width="100%">
   <tr>
     <td bgcolor="#151515" style="border: 1px solid #ff79c6;">
-      <h2 align="center" style="color: #ff79c6; font-family: monospace;">▪️ Foco Atual</h2>
-      <p align="center" style="color: #f8f8f2;">Desenvolvendo soluções onde o design encontra a tecnologia 👇</p>
+      <h2 align="center" style="color: #ff79c6; font-family: monospace;">▪️ Desenvolvendo soluções onde o design encontra a tecnologia</h2>
+  
       <div align="center">
         <a href="https://gisele-alencar.netlify.app">
           <img src="https://img.shields.io/badge/ACESSAR_PORTFÓLIO-ff79c6?style=for-the-badge&logo=netlify&logoColor=white" />
