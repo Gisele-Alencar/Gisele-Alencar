@@ -1,4 +1,4 @@
-# Hey Peoples 🤗
+# Hey Peoples 
 
 Web Designer & Front-end Team Lead em transição para **Cloud Computing e Infraestrutura**.
 
