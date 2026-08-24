@@ -37,7 +37,7 @@ Atualmente, estou ampliando minha experiência em tecnologia com estudos e proje
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-555555?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-# ▪️ Meus Projetos
+##▪️ Meus Projetos
 
 Portfólio com projetos práticos que mostram minha evolução técnica, da configuração de ambientes à implantação e gerenciamento de serviços.
 
