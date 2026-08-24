@@ -51,7 +51,7 @@ Portfólio com projetos práticos que mostram minha evolução técnica, da conf
   </a>
 </p>
 
-### **Cloud Operations:**Construindo e administrando ambientes e serviços em nuvem.
+### **Cloud Operations:** Construindo e administrando ambientes e serviços em nuvem.
 
 ### **Sistemas & Redes:** Praticando servidores, redes, serviços e troubleshooting.
 
