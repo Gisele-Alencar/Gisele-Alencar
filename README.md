@@ -36,11 +36,20 @@ Atualmente, estou ampliando minha experiência em tecnologia com estudos e proje
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-555555?style=for-the-badge&logo=githubactions&logoColor=white)
 
+
 # ▪️ Meus Projetos
 
-Portifólio com projetos práticos que mostram minha evolução técnica, da configuração de ambientes à implantação e gerenciamento de serviços.
+Portfólio com projetos práticos que mostram minha evolução técnica, da configuração de ambientes à implantação e gerenciamento de serviços.
 
-👉 **[Acesse meu portfólio](COLOQUE_AQUI_O_LINK_DO_SEU_PORTFOLIO)**
+<p align="center">
+  <img src="./7945bbcb8d06a234a595c231cd369852.gif" width="700" alt="Terminal">
+</p>
+
+<p align="center">
+  <a href="SEU_LINK_DO_PORTFOLIO">
+    <img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-FF69B4?style=for-the-badge" alt="Acessar Portfólio">
+  </a>
+</p>
 
 ### **Cloud Operations:**Construindo e administrando ambientes e serviços em nuvem.
 
