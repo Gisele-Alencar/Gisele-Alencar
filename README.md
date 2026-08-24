@@ -57,5 +57,7 @@ Portfólio com projetos práticos que mostram minha evolução técnica, da conf
 
 ### **Infraestrutura como Código:** Evoluindo em Python, AWS CLI e infraestrutura como código.
 
-Obrigada por visitar e Siga-me c:
+
+
+    Obrigada por visitar e Siga-me c:
 
