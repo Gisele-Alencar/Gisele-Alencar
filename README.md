@@ -2,7 +2,7 @@
 
 Web Designer & Front-end Team Lead em transição para **Cloud Computing e Infraestrutura**.
 
-Atualmente, estou ampliando minha experiência em tecnologia com estudos e projetos práticos voltados para **AWS, Linux, Redes, Python e ambientes em nuvem**, unindo minha experiência anterior com produtos digitais a uma nova atuação técnica.
+Atualmente, estou ampliando minha experiência em tecnologia com estudos e projetos práticos voltados para **AWS, Linux, Redes, Python e Ambientes em nuvem**, unindo minha experiência anterior com produtos digitais a uma nova atuação técnica.
 
 ### ⚡ Tech Stack & Skills
 
