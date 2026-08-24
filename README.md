@@ -42,7 +42,7 @@ Atualmente, estou ampliando minha experiência em tecnologia com estudos e proje
 Portfólio com projetos práticos que mostram minha evolução técnica, da configuração de ambientes à implantação e gerenciamento de serviços.
 
 <p align="center">
-  <img src="./7945bbcb8d06a234a595c231cd369852.gif" width="700" alt="Terminal">
+  <img src="./7945bbcb8d06a234a595c231cd369852.gif" width="350" alt="Terminal">
 </p>
 
 <p align="center">
