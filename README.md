@@ -33,6 +33,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 
 ## Tecnologias & Skills
 
+
 ###  Cloud & AWS
 
 <p align="left">
@@ -83,14 +84,13 @@ Projetos práticos que documentam minha evolução técnica, da configuração e
 
 <p align="center">
   <a href="LINK_DO_SEU_PORTFOLIO">
-    <img
-      src="https://img.shields.io/badge/>_%20ACESSAR%20PORTFÓLIO-FF69B4?style=for-the-badge&logo=gnubash&logoColor=white"
+    <img      src="https://img.shields.io/badge/>_%20ACESSAR%20PORTFÓLIO-FF69B4?style=for-the-badge&logo=gnubash&logoColor=white"
       alt="Acessar Portfólio"
     />
   </a>
 </p>
 
-<br>
+  <br>
 
 ###  Cloud Operations
 
