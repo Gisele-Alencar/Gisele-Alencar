@@ -53,8 +53,6 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-**Networking:** TCP/IP • DNS • Subnets • Routing • SSH
-
 ###  Development & Tools
 
 <p align="left">
