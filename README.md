@@ -23,7 +23,7 @@
 
 <!-- ===================== SOBRE ===================== -->
 
-## Sobre mim
+ ## Sobre mim
 
 Atualmente atuo com **Web Design** e liderança de uma equipe de estagiários **Front-end**, enquanto direciono minha formação e desenvolvimento técnico para **Cloud Computing e Infraestrutura**.
 
@@ -34,7 +34,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 ## Tecnologias & Skills
 
 
-###  Cloud & AWS
+ **Cloud & AWS**
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
@@ -45,7 +45,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
   <img src="https://img.shields.io/badge/CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
 </p>
 
-###  Systems & Networking
+  **Systems & Networking**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -53,7 +53,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-###  Development & Tools
+  **Development & Tools**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -62,7 +62,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-###  Learning Next
+ **Learning Next**
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
@@ -90,15 +90,15 @@ Projetos práticos que documentam minha evolução técnica, da configuração e
 
   <br>
 
-###  Cloud Operations
+ **Cloud Operations**
 
 Monitoramento, disponibilidade, administração de recursos e resolução de problemas em ambientes de nuvem.
 
-###  Systems & Networking
+**Systems & Networking**
 
 Administração de ambientes Linux, conectividade, serviços, permissões e troubleshooting.
 
-###  Infrastructure as Code
+**Infrastructure as Code**
 
 Evolução da configuração manual para provisionamento, padronização e automação de infraestrutura através de código.
 
@@ -120,6 +120,6 @@ Evolução da configuração manual para provisionamento, padronização e autom
 
 <!-- ===================== FINAL ===================== -->
 
-
-    Obrigada por visitar e Siga-me c:
+ **Thank you for visiting and follow me**
+    
 
