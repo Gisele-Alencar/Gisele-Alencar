@@ -1,62 +1,150 @@
-# Hey Peoples 
+<!-- ===================== CAPA ===================== -->
 
-Web Designer & Front-end Team Lead em transição para **Cloud Computing e Infraestrutura**.
+<p align="center">
+  <img
+    src="https://i.ibb.co/twXZ99Bm/Git-Hub-Announces-Funding-Programme-for-Open-Source-AI-Startups.jpg"
+    alt="GitHub Terminal"
+    width="100%"
+  />
+</p>
 
-Atualmente, estou ampliando minha experiência em tecnologia com estudos e projetos práticos voltados para **AWS, Linux, Redes, Python e Ambientes em nuvem**, unindo minha experiência anterior com produtos digitais a uma nova atuação técnica.
+<h1 align="center">Gisele Alencar</h1>
 
-### ⚡ Tech Stack & Skills
+<p align="center">
+  <b>Web Designer • Front-end Team Lead • Cloud & Infrastructure</b>
+</p>
+
+<p align="center">
+  Em transição para Cloud Computing, desenvolvendo conhecimentos em AWS,
+  Linux, Redes, Python e infraestrutura.
+</p>
+
+<br>
+
+<!-- ===================== SOBRE ===================== -->
+
+## Sobre mim
+
+Atualmente atuo com **Web Design** e liderança de uma equipe de estagiários **Front-end**, enquanto direciono minha formação e desenvolvimento técnico para **Cloud Computing e Infraestrutura**.
+
+Estou construindo experiência por meio de estudos, laboratórios e projetos práticos, com foco em administração de ambientes, serviços em nuvem, sistemas Linux, redes e automação.
+
+Minha experiência com produtos digitais e liderança também contribui com habilidades de **organização, colaboração, comunicação e resolução de problemas**.
+
+- ☁️ **Foco atual:** Cloud Computing & AWS
+- 🐧 **Sistemas:** Linux e Ubuntu
+- 🌐 **Fundamentos:** Redes e infraestrutura
+- 🛠️ **Desenvolvimento:** Python e Git/GitHub
+- 📚 **Próximos estudos:** AWS CLI, Terraform, Docker e CI/CD
+
+<br>
+
+<!-- ===================== TECNOLOGIAS ===================== -->
+
+## Tecnologias & Skills
 
 ### ☁️ Cloud & AWS
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+</p>
 
 ### 🐧 Systems & Networking
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+**Networking:** TCP/IP • DNS • Subnets • Routing • SSH
 
 ### 🛠️ Development & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ### 📚 Learning Next
 
-![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-555555?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-##▪️ Meus Projetos
-
-Portfólio com projetos práticos que mostram minha evolução técnica, da configuração de ambientes à implantação e gerenciamento de serviços.
-
-<p align="center">
-  <img src="./7945bbcb8d06a234a595c231cd369852.gif" width="350" alt="Terminal">
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-555555?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
+<br>
+
+<!-- ===================== PROJETOS ===================== -->
+
+## Projetos
+
+Projetos práticos que documentam minha evolução técnica, da configuração e administração de ambientes à implantação de serviços e automação de infraestrutura.
+
 <p align="center">
-  <a href="SEU_LINK_DO_PORTFOLIO">
-    <img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-FF69B4?style=for-the-badge" alt="Acessar Portfólio">
+  <a href="LINK_DO_SEU_PORTFOLIO">
+    <img
+      src="https://img.shields.io/badge/>_%20ACESSAR%20PORTFÓLIO-FF69B4?style=for-the-badge&logo=gnubash&logoColor=white"
+      alt="Acessar Portfólio"
+    />
   </a>
 </p>
 
-### **Cloud Operations:** Construindo e administrando ambientes e serviços em nuvem.
+<br>
 
-### **Sistemas & Redes:** Praticando servidores, redes, serviços e troubleshooting.
+### ☁️ Cloud Operations
 
-### **Infraestrutura como Código:** Evoluindo em Python, AWS CLI e infraestrutura como código.
+Monitoramento, disponibilidade, administração de recursos e resolução de problemas em ambientes de nuvem.
 
+### 🌐 Systems & Networking
+
+Administração de ambientes Linux, conectividade, serviços, permissões e troubleshooting.
+
+### ⚙️ Infrastructure as Code
+
+Evolução da configuração manual para provisionamento, padronização e automação de infraestrutura através de código.
+
+<br>
+
+<!-- ===================== GITHUB ===================== -->
+
+## GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Gisele-Alencar&show_icons=true&hide_border=true&theme=transparent"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-Alencar&layout=compact&hide_border=true&theme=transparent"
+  />
+</p>
+
+<br>
+
+<!-- ===================== FINAL ===================== -->
+
+<p align="center">
+  <b>Cloud • Infrastructure • Automation</b>
+</p>
+
+<p align="center">
+  Construindo minha trajetória em Cloud através de estudos, laboratórios e projetos práticos.
+</p>
 
 
     Obrigada por visitar e Siga-me c:
