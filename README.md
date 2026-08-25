@@ -128,14 +128,6 @@ Evolução da configuração manual para provisionamento, padronização e autom
 
 <!-- ===================== FINAL ===================== -->
 
-<p align="center">
-  <b>Cloud • Infrastructure • Automation</b>
-</p>
-
-<p align="center">
-  Construindo minha trajetória em Cloud através de estudos, laboratórios e projetos práticos.
-</p>
-
 
     Obrigada por visitar e Siga-me c:
 
