@@ -29,16 +29,6 @@ Atualmente atuo com **Web Design** e liderança de uma equipe de estagiários **
 
 Estou construindo experiência por meio de estudos, laboratórios e projetos práticos, com foco em administração de ambientes, serviços em nuvem, sistemas Linux, redes e automação.
 
-Minha experiência com produtos digitais e liderança também contribui com habilidades de **organização, colaboração, comunicação e resolução de problemas**.
-
-- ☁️ **Foco atual:** Cloud Computing & AWS
-- 🐧 **Sistemas:** Linux e Ubuntu
-- 🌐 **Fundamentos:** Redes e infraestrutura
-- 🛠️ **Desenvolvimento:** Python e Git/GitHub
-- 📚 **Próximos estudos:** AWS CLI, Terraform, Docker e CI/CD
-
-<br>
-
 <!-- ===================== TECNOLOGIAS ===================== -->
 
 ## Tecnologias & Skills
