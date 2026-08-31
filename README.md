@@ -90,15 +90,15 @@ Projetos práticos que documentam minha evolução técnica, da configuração e
 
   <br>
 
- **Cloud Operations**
+ *Cloud Operations*
 
 Monitoramento, disponibilidade, administração de recursos e resolução de problemas em ambientes de nuvem.
 
-**Systems & Networking**
+*Systems & Networking*
 
 Administração de ambientes Linux, conectividade, serviços, permissões e troubleshooting.
 
-**Infrastructure as Code**
+*Infrastructure as Code*
 
 Evolução da configuração manual para provisionamento, padronização e automação de infraestrutura através de código.
 
