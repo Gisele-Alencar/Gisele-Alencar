@@ -11,8 +11,6 @@
 <h1 align="center">Gisele Alencar</h1>
 
 <p align="center">
-  <b>Web Designer • Front-end Team Lead • Cloud & Infrastructure</b>
-</p>
 
 <p align="center">
   Em transição para Cloud Infrastructure & Security, construindo experiência prática em AWS, Linux, redes e segurança.
@@ -24,9 +22,10 @@
 
  ## Sobre mim
 
-Atualmente atuo com **Web Design** e liderança de uma equipe de estagiários **Front-end**, enquanto direciono minha formação e desenvolvimento técnico para **Cloud Computing e Infraestrutura**.
+Atualmente atuo com **Web Design** e liderança de uma equipe de estagiários **Front-end**.
+Enquanto direciono minha formação e desenvolvimento técnico para Cloud Computing, Infraestrutura e Segurança.
 
-Estou construindo experiência por meio de estudos, laboratórios e projetos práticos, com foco em administração de ambientes, serviços em nuvem, sistemas Linux, redes e automação.
+Estou construindo experiência por meio de estudos, laboratórios e projetos práticos, com foco em ambientes em nuvem, sistemas Linux, redes, segurança, monitoramento e automação.
 
 <!-- ===================== TECNOLOGIAS ===================== -->
 
