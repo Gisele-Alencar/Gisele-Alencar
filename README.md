@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  Em transição para Cloud Computing, desenvolvendo conhecimentos em AWS,
-  Linux, Redes, Python e infraestrutura.
+  Em transição para Cloud Infrastructure & Security, construindo experiência prática em AWS, Linux, redes e segurança.
 </p>
 
 <br>
