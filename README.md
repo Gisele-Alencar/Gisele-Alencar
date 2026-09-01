@@ -92,6 +92,10 @@ Projetos práticos que documentam minha evolução técnica, da configuração e
 
 Monitoramento, disponibilidade, administração de recursos e resolução de problemas em ambientes de nuvem.
 
+*Segurança da Informação*
+
+Fundamentos de segurança, controle de acesso, análise de logs, identificação de vulnerabilidades e práticas de proteção de ambientes.
+
 *Systems & Networking*
 
 Administração de ambientes Linux, conectividade, serviços, permissões e troubleshooting.
