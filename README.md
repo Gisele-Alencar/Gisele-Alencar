@@ -66,9 +66,6 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 
 </p>
 
-
-## Projetos
-
 <!-- ===================== PROJETOS ===================== -->
 
 ## Projetos
