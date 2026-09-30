@@ -29,7 +29,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 
 ## Tecnologias & Skills
 
-### 🛡️ Security & SOC
+ *Security & SOC*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
@@ -37,7 +37,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
   <img src="https://img.shields.io/badge/SIEM-333333?style=for-the-badge"/>
 </p>
 
-### 🌐 Networking & Network Security
+*Networking & Network Security*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
@@ -46,7 +46,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 </p>
 
 
-### 🐧 Systems & Tools
+*Systems & Tools*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -55,7 +55,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Infrastructure
+*Cloud & Infrastructure*
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
@@ -93,10 +93,6 @@ Fundamentos de segurança, controle de acesso, análise de logs, identificação
 *Systems & Networking*
 
 Administração de ambientes Linux, conectividade, serviços, permissões e troubleshooting.
-
-*Infrastructure as Code*
-
-Evolução da configuração manual para provisionamento, padronização e automação de infraestrutura através de código.
 
 <br>
 
