@@ -21,7 +21,8 @@
 <!-- ===================== SOBRE ===================== -->
 ## Sobre mim
 
-Atualmente atuo com **Web Design** e liderança de uma equipe de estagiários **Front-end**. Estou direcionando minha formação e desenvolvimento técnico para **Cibersegurança**, com foco em **SOC, Blue Team e Redes**.
+Atuando como **Ui Design** e liderança de equipes de voluntários na área de **Ciberseguranca e Front End**. 
+Estou direcionando minha formação e desenvolvimento técnico para **Cibersegurança**, com foco em **SOC, Blue Team e Redes**.
 
 Estou construindo experiência por meio de estudos, laboratórios e projetos práticos voltados para **Linux, redes, análise de logs, monitoramento, SIEM, investigação e triagem de eventos de segurança**.
 
