@@ -13,7 +13,9 @@
 <p align="center">
 <!-- ===================== SOBRE ===================== -->
   
-*Hello 👋🏻*
+*Hello 👋🏻* 
+
+## Sobre Mim
   
 Atuei como **Ui Design** e estou liderando equipe de voluntários na área de **Ciberseguranca e Dados**
 Estou direcionando minha formação e desenvolvimento técnico para **Cibersegurança**, com foco em **SOC - CTI**.
@@ -37,8 +39,6 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Palo_Alto-Firewall-FA582D?style=for-the-badge"/>
-</p>
 
 
 *Systems & Tools*
