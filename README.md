@@ -8,23 +8,17 @@
   />
 </p>
 
-<h1 align="center">Gisele Alencar</h1>
+<h1 align="center"> Gisele Alencar </h1>
 
 <p align="center">
-
-<p align="center">
-  Em transição para Cloud Infrastructure & Security, construindo experiência prática em AWS, Linux, redes e segurança.
-</p>
-
-<br>
-
 <!-- ===================== SOBRE ===================== -->
-## Sobre mim
+  
+*Hello 👋🏻*
+  
+Atuei como **Ui Design** e estou liderando equipe de voluntários na área de **Ciberseguranca e Dados**
+Estou direcionando minha formação e desenvolvimento técnico para **Cibersegurança**, com foco em **SOC - CTI**.
 
-Atuando como **Ui Design** e liderança de equipes de voluntários na área de **Ciberseguranca e Front End**. 
-Estou direcionando minha formação e desenvolvimento técnico para **Cibersegurança**, com foco em **SOC, Blue Team e Redes**.
-
-Estou construindo experiência por meio de estudos, laboratórios e projetos práticos voltados para **Linux, redes, análise de logs, monitoramento, SIEM, investigação e triagem de eventos de segurança**.
+Estou construindo experiência por meio de estudos, laboratórios e projetos práticos voltados para **Linux, Análise de tráfego, logs, monitoramento, SIEM, investigação e triagem de eventos de segurança**.
 
 <br>
 
