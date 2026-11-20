@@ -39,6 +39,8 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANY.RUN-00AEEF?style=for-the-badge"/>
+</p>
 
 
 *Systems & Tools*
@@ -50,15 +52,16 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-*Cloud & Infrastructure*
+*Cloud Security & Infrastructure*
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudWatch-759C3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 <!-- ===================== PROJETOS ===================== -->
@@ -68,29 +71,14 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 Projetos práticos que documentam minha evolução técnica, da configuração e administração de ambientes à implantação de serviços e automação de infraestrutura.
 
 <p align="center">
-  <a href="LINK_DO_SEU_PORTFOLIO">
+  <a href="https://gisele-alencar-cyber.ai.studio/">
     <img      src="https://img.shields.io/badge/>_%20ACESSAR%20PORTFÓLIO-FF69B4?style=for-the-badge&logo=gnubash&logoColor=white"
       alt="Acessar Portfólio"
     />
   </a>
 </p>
 
-  <br>
-
- *Cloud Operations*
-
-Monitoramento, disponibilidade, administração de recursos e resolução de problemas em ambientes de nuvem.
-
-*Segurança da Informação*
-
-Fundamentos de segurança, controle de acesso, análise de logs, identificação de vulnerabilidades e práticas de proteção de ambientes.
-
-*Systems & Networking*
-
-Administração de ambientes Linux, conectividade, serviços, permissões e troubleshooting.
-
-<br>
-
+ 
 <!-- ===================== GIF ===================== -->
 
 <br>
