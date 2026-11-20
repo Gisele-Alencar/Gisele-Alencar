@@ -39,6 +39,7 @@ Estou construindo experiência por meio de estudos, laboratórios e projetos pr�
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/ANY.RUN-00AEEF?style=for-the-badge"/>
 </p>
 
