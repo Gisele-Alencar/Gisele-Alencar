@@ -18,7 +18,7 @@
 ## Sobre Mim
   
 Atuei como **Ui Design** e estou liderando equipe de voluntários na área de **Ciberseguranca e Dados**
-Estou direcionando minha formação e desenvolvimento técnico para **Cibersegurança**, com foco em **SOC - CTI - DFIR **.
+Estou direcionando minha formação e desenvolvimento técnico para **Cibersegurança**, com foco em **SOC - CTI - DFIR**.
 
 Estou construindo experiência por meio de estudos, laboratórios e projetos práticos voltados para **Linux, Análise de tráfego, logs, monitoramento, SIEM, investigação e triagem de eventos de segurança**.
 
